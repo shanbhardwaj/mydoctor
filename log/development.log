@@ -1,0 +1,16 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-11 01:00:44) [GET]
+
+ActionController::RoutingError (No route matches "/venues/40083-king-cat-theater-seattle-washington" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-11 01:00:44) [GET]
+
+ActionController::RoutingError (No route matches "/artists/38491-channel-surfer" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
